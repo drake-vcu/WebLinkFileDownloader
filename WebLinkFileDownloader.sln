@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebLinkFileDownloader", "WebLinkFileDownloader\WebLinkFileDownloader.csproj", "{A46B3F93-C5CB-4B77-83F0-D7D2284BF103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{E03F9E31-F7A7-4F5C-8DC7-3630CC12CF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46B3F93-C5CB-4B77-83F0-D7D2284BF103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46B3F93-C5CB-4B77-83F0-D7D2284BF103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46B3F93-C5CB-4B77-83F0-D7D2284BF103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46B3F93-C5CB-4B77-83F0-D7D2284BF103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03F9E31-F7A7-4F5C-8DC7-3630CC12CF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03F9E31-F7A7-4F5C-8DC7-3630CC12CF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03F9E31-F7A7-4F5C-8DC7-3630CC12CF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03F9E31-F7A7-4F5C-8DC7-3630CC12CF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830E63FA-4255-4394-B3F8-4AF14220BCE5}
+	EndGlobalSection
+EndGlobal
